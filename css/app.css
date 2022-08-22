@@ -131,7 +131,9 @@ footer {
     text-align: center;
 }
 
-
+.added{
+    background-color: #02ccba;
+}
 /*** Reponsive Styles ***/
 @media (min-width: 650px) {
     aside {
