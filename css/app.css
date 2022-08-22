@@ -134,6 +134,9 @@ footer {
 .added{
     background-color: #02ccba;
 }
+.lorem{
+    background-color: aqua;
+}
 /*** Reponsive Styles ***/
 @media (min-width: 650px) {
     aside {
